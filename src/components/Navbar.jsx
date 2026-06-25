@@ -7,7 +7,7 @@ const links = [
   { label: "Contact",  href: "#enquiry" },
 ];
 
-const WA_NUMBER = "919137778557";
+const WA_NUMBER = "918655788969";
 const WA_LINK = `https://wa.me/${WA_NUMBER}`;
 
 export default function Navbar() {
