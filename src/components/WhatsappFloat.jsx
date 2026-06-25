@@ -8,7 +8,7 @@ export default function WhatsappFloat() {
       rel="noopener noreferrer"
       style={{
   position: "fixed",
-  bottom: 28,
+  bottom: 27,
   right: 28,
         width: 56,
         height: 56,
