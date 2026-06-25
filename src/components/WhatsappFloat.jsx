@@ -7,9 +7,9 @@ export default function WhatsappFloat() {
       target="_blank"
       rel="noopener noreferrer"
       style={{
-        
-        bottom: 28,
-        right: 28,
+  position: "fixed",
+  bottom: 28,
+  right: 28,
         width: 56,
         height: 56,
         background: "#25D366",

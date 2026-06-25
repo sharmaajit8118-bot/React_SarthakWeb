@@ -18,7 +18,7 @@ export default function Footer() {
             </p>
             {/* Contact in footer */}
             <div style={{ fontSize: 13, lineHeight: 2 }}>
-              <div>📍 Shop No. 5, Near Kandivali East Station</div>
+              <div>📍 Room No. 5, Mahatma Gandhi Welfare Soc, Balaji Estate Rd, opp. Mahindra Yellow Gate, Hanuman Nagar, Akurli Road, Kandivali East</div>
               <a href="tel:+918655788969" style={{ display: "block", transition: "color 0.2s" }}
                 onMouseEnter={e => e.target.style.color = "#f9a825"}
                 onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.65)"}>
@@ -34,7 +34,7 @@ export default function Footer() {
                 style={{ display: "block", transition: "color 0.2s" }}
                 onMouseEnter={e => e.target.style.color = "#f9a825"}
                 onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.65)"}>
-                📧 sarthakagency@gmail.com
+                📧 sarthakagency21@gmail.com
               </a>
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function Footer() {
 
         <div style={{ borderTop: "1px solid rgba(255,255,255,0.1)", paddingTop: 20, display: "flex", justifyContent: "space-between", flexWrap: "wrap", gap: 10, fontSize: 12 }}>
           <span>© {year} Sarthak Agency · CSC Certified · IRDAI Authorised · MSME Registered</span>
-          <span>Made with ❤️ in Kandivali, Mumbai</span>
+          <span>Design by Ajit Sharma, Mumbai</span>
         </div>
       </div>
       <style>{`
