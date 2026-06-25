@@ -30,7 +30,7 @@ export default function Footer() {
                 onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.65)"}>
                 💬 WhatsApp Us
               </a>
-              <a href="mailto:sarthakagency@gmail.com"
+              <a href="mailto:sarthakagency21@gmail.com"
                 style={{ display: "block", transition: "color 0.2s" }}
                 onMouseEnter={e => e.target.style.color = "#f9a825"}
                 onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.65)"}>
