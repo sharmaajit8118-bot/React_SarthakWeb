@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const WA_NUMBER = "919137778557";
+const WA_NUMBER = "918655788969";
 
 const services = [
   "Aadhaar Services", "PAN Card", "Passport Services", "GST Registration",

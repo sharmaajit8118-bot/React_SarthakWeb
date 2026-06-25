@@ -1,4 +1,4 @@
-const WA_NUMBER = "919137778557";
+const WA_NUMBER = "918655788969";
 
 export default function WhatsappFloat() {
   return (

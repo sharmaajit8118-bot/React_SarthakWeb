@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const WA_NUMBER = "919137778557";
+const WA_NUMBER = "918655788969";
 
 const services = [
   { icon: "🪪", name: "Aadhaar Services", desc: "New, correction, update, download & address change", docs: ["Original Aadhaar card", "Proof of address (electricity bill / passport / bank passbook)", "Mobile number (for OTP)"] },

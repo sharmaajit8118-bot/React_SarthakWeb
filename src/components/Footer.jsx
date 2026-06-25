@@ -1,4 +1,4 @@
-const WA_NUMBER = "919137778557";
+const WA_NUMBER = "918655788969";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -19,10 +19,10 @@ export default function Footer() {
             {/* Contact in footer */}
             <div style={{ fontSize: 13, lineHeight: 2 }}>
               <div>📍 Shop No. 5, Near Kandivali East Station</div>
-              <a href="tel:+919137778557" style={{ display: "block", transition: "color 0.2s" }}
+              <a href="tel:+918655788969" style={{ display: "block", transition: "color 0.2s" }}
                 onMouseEnter={e => e.target.style.color = "#f9a825"}
                 onMouseLeave={e => e.target.style.color = "rgba(255,255,255,0.65)"}>
-                📞 +91 91377 78557
+                📞 +91 86557 88969
               </a>
               <a href={`https://wa.me/${WA_NUMBER}`} target="_blank" rel="noopener noreferrer"
                 style={{ display: "block", transition: "color 0.2s" }}

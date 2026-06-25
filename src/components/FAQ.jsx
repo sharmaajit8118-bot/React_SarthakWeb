@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const WA_NUMBER = "919137778557";
+const WA_NUMBER = "918655788969";
 
 const faqs = [
   { q: "How long does Aadhaar correction take?", a: "Requests are submitted via UIDAI and typically reflect within 5–7 working days after verification." },
