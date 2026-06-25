@@ -20,7 +20,7 @@ export default function WhatsappFloat() {
         boxShadow: "0 4px 20px rgba(37,211,102,0.4)",
         zIndex: 9999,
         transition: "transform 0.2s, box-shadow 0.2s",
-        position: "fixed",
+        
       }}
       className="wa-pulse"
       onMouseEnter={e => { e.currentTarget.style.transform = "scale(1.1)"; e.currentTarget.style.boxShadow = "0 8px 28px rgba(37,211,102,0.6)"; }}
